@@ -55,7 +55,6 @@ body {
   grid-column: 3/4;
   background: var(--Very-dark-grayish-blue);
   padding: 1.875rem 2.5rem;
-
   border-radius: 0.625rem;
 }
 .card-3 {
@@ -84,7 +83,6 @@ body {
   .grid-container {
     margin-top: 1.25rem;
     grid-template-columns: 1fr;
-    /* grid-template-rows: minmax(auto, auto); */
   }
   .card-1 {
     background-position: 12.0625rem 1.625rem;
@@ -94,7 +92,6 @@ body {
   }
   .card {
     grid-column: unset;
-    /* grid-row: unset; */
   }
 }
 /* section over write */
